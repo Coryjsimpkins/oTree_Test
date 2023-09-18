@@ -1,6 +1,6 @@
 from os import environ
 
-
+#sets the order of folders otree runs through
 SESSION_CONFIGS = [
     dict(
         name='Test_20p', app_sequence=['Quiz_Investment',

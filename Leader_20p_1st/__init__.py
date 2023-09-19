@@ -332,7 +332,7 @@ class ResultWaitPage(WaitPage):
                 group.take_for_myself += player.take_for_myself
                 #group.rate += player.rate
                 group.invest_B += player.invest_B
-			    group.invest_C += player.invest_C
+                group.invest_C += player.invest_C
 			    group.invest_D += player.invest_D
 			    group.invest_E += player.invest_E
 			    group.invest_A += player.invest_A

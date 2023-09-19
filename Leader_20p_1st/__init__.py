@@ -331,16 +331,16 @@ class ResultWaitPage(WaitPage):
                 group.invest += player.invest
                 group.take_for_myself += player.take_for_myself
                 #group.rate += player.rate
-                group.invest_B = player.invest_B
-			    group.invest_C = player.invest_C
-			    group.invest_D = player.invest_D
-			    group.invest_E = player.invest_E
-			    group.invest_A = player.invest_A
-			    group.r_p_A = player.r_p_A
-			    group.r_p_B = player.r_p_B
-			    group.r_p_C = player.r_p_C
-			    group.r_p_D = player.r_p_D
-			    group.r_p_E = player.r_p_E
+                group.invest_B += player.invest_B
+			    group.invest_C += player.invest_C
+			    group.invest_D += player.invest_D
+			    group.invest_E += player.invest_E
+			    group.invest_A += player.invest_A
+			    group.r_p_A += player.r_p_A
+			    group.r_p_B += player.r_p_B
+			    group.r_p_C += player.r_p_C
+			    group.r_p_D += player.r_p_D
+			    group.r_p_E += player.r_p_E
 
 
 

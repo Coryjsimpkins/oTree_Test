@@ -330,7 +330,6 @@ class ResultWaitPage(WaitPage):
             if player.role_player == 'Leader':
                 group.invest += player.invest
                 group.take_for_myself += player.take_for_myself
-                #group.rate += player.rate
                 group.invest_B += player.invest_B
                 group.invest_C += player.invest_C
 			    group.invest_D += player.invest_D
